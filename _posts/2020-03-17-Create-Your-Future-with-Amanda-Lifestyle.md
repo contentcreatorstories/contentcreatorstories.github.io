@@ -5,7 +5,7 @@ categories: [selfhelp, lifestyle]
 tags: [selfhelp, lifestyle]
 toc: false
 headline: Meet a life coach who empowers her audience with every video, using inspiration and positive thinking to change lives.
-image: /assets/img/life.png
+image: /assets/img/life_small.jpg
 ---
 
 [![Lifestyle](/assets/img/life.png)](https://www.youtube.com/watch?v=Qdr9hQGlULw)

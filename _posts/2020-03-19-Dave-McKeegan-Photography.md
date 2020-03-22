@@ -5,10 +5,10 @@ categories: [photography]
 tags: [photography]
 toc: false
 headline: Meet a photographer who has been been in the craft for a decade, and grew his hobby into a big passion.
-image: /assets/img/photography-2.png
+image: /assets/img/photography-2_small.jpg
 ---
 
-[![Lifestyle](/assets/img/photography-2.png)](https://www.youtube.com/watch?v=Qdr9hQGlULw)
+[![Lifestyle](/assets/img/photography-2.png)](https://www.youtube.com/watch?v=ChlNnuFwLu8)
 
 ## Channel Name - Niche
 _______________________

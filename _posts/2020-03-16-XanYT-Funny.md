@@ -5,7 +5,7 @@ categories: [funny, life]
 tags: [funny, life]
 toc: false
 headline: Meet a youtuber who grew from 0 to 10k subs, and loves having fun and making funny videos for his audience to watch.
-image: /assets/img/funny.png
+image: /assets/img/funny_small.jpg
 ---
 
 [![Funny](/assets/img/funny.png)](https://www.youtube.com/watch?v=gMouy3dWi20)

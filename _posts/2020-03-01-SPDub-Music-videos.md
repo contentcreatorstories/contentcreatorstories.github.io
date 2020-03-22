@@ -1,11 +1,11 @@
 ---
-title: "SPDub: Music videos"
+title: "SPDub - Music videos"
 date: 2020-03-01 00:34:00 +0800
 categories: [Music, Violin]
 tags: [music]
 toc: false
 headline: Meet a couple who create music videos off pop and bollywood music, and love playing music for others to listen to.
-image: /assets/img/music-1.png
+image: /assets/img/music-1_small.jpg
 ---
 
 [![Music](/assets/img/music-1.png)](https://www.youtube.com/watch?v=Yc1XK5oo-dc)

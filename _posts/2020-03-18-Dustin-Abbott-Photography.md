@@ -5,7 +5,7 @@ categories: [photography]
 tags: [photography]
 toc: false
 headline: Meet a  successful photographer who started in 2014, and now does gear reviews with a number of brands and retailers.
-image: /assets/img/photography.png
+image: /assets/img/photography_small.jpg
 ---
 
 [![Photography](/assets/img/photography.png)](https://www.youtube.com/watch?v=Qdr9hQGlULw)

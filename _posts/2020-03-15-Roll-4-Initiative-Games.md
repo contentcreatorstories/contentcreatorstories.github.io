@@ -5,7 +5,7 @@ categories: [games]
 tags: [games]
 toc: false
 headline: Meet a couple who created their channel around their hobby - TTRPGs, and how they have evolved over time.
-image: /assets/img/games-1.png
+image: /assets/img/games-1_small.jpg
 ---
 
 [![Games](/assets/img/games-1.png)](https://www.youtube.com/watch?v=9FAwCliXR0o)

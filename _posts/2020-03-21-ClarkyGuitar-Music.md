@@ -13,7 +13,7 @@ image: /assets/img/music-2.png
 ## Channel Name - Niche
 _______________________
 
-Nama Japan - Japan
+ClarkyGuitar - Music
 
 
 ## Who are you and what videos do you create?
