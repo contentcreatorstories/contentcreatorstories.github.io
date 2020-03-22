@@ -5,9 +5,9 @@ title: Content Creator Stories                          # the main title
 tagline: Learn what makes content creators like you, successful.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A collection of interviews with content creators,
+  provinding info on how too make your
+  youtube channel successful
 
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://contentcreatorstories.github.io'
