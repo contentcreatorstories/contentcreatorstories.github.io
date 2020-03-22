@@ -74,7 +74,7 @@ body {
 
 $tab-height: 3.3rem;
 $tab-cursor-height: 1.6rem;
-$tab-count: {{ site.data.tabs | size }};
+$tab-count: 6;
 
 #sidebar {
   @include pl-pr(0);
