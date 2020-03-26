@@ -5,7 +5,7 @@ categories: [learning]
 tags: [learning]
 toc: false
 headline: Meet a creator who spends each video trying to level up in real life, with a new set of skills.
-image: /assets/img/music-2.png
+image: /assets/img/learn-1.png
 ---
 
 [![Learn](/assets/img/learn-1.png)](https://www.youtube.com/watch?v=xY4eJu12Ozg)
