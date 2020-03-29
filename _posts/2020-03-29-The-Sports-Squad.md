@@ -4,7 +4,7 @@ date: 2020-03-29 00:34:00 +0800
 categories: [sports]
 tags: [sports]
 toc: false
-headline: Meet a creator who spends each video trying to level up in real life, with each video featuring a new set of skills.
+headline: Meet a youtube creator growing in views and subscribers daily, due to hard work and practice through sports vids.
 image: /assets/img/sports-1_small.png
 ---
 
