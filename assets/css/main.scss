@@ -62,6 +62,30 @@ html {
   overflow-y: scroll;
 }
 
+@media only screen and (min-width: 600px) {
+  .mobile-title, .privy-embed-form  {
+    display:none;
+  }
+}
+
+.mobile-title {
+  text-align: center;
+  margin-bottom:15px;
+  h1{
+    margin-bottom:20px;
+  }
+  p{
+    margin-bottom:10px;
+  }
+
+}
+
+.privy-embed-form {
+  border-radius: 5px;
+border-style: solid;
+margin: 10px 0px;
+}
+
 body {
   line-height: 1.75rem;
   background: var(--body-bg);
