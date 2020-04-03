@@ -1,14 +1,15 @@
 ---
 title: "Dustin Abbott - Photography"
-date: 2020-03-18 00:34:00 +0800
+date: 2020-03-31 00:34:00 +0800
 categories: [photography]
 tags: [photography]
 toc: false
 headline: Meet a  successful photographer who started in 2014, and now does gear reviews with a number of brands and retailers.
 image: /assets/img/photography_small.jpg
+subscribers: 84,000+
 ---
 
-[![Photography](/assets/img/photography.png)](https://www.youtube.com/watch?v=Qdr9hQGlULw)
+[![Photography](/assets/img/photography.png)](https://www.youtube.com/channel/UCrmU_ja6Ea7G1RYGfy3zeVA)
 
 ## Channel Name - Niche
 _______________________
