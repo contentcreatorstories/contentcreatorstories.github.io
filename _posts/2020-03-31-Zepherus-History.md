@@ -6,6 +6,7 @@ tags: [history]
 toc: false
 headline: Meet a creator who makes interesting historical and scientific videos, and produces them for his 200k subscribers.
 image: /assets/img/history-1.png
+subscribers: 200,000+
 ---
 
 [![Anime](/assets/img/history-1.png)](https://www.youtube.com/watch?v=2Qqz6ekyOCU)

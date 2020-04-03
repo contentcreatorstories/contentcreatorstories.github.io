@@ -6,6 +6,7 @@ tags: [sports]
 toc: false
 headline: Meet a youtube creator growing in views and subscribers daily, due to hard work and practice through sports vids.
 image: /assets/img/sports-1_small.png
+subscribers: <1000
 ---
 
 [![Learn](/assets/img/sports-1.png)](https://www.youtube.com/watch?v=8WLWYgcArFU)

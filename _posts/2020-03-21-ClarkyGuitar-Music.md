@@ -6,6 +6,7 @@ tags: [music]
 toc: false
 headline: Meet a creator who started in 2012 and creates guitar related videos, including 1 minute guitar tutorials.
 image: /assets/img/music-2.png
+subscribers: 1000+
 ---
 
 [![Anime](/assets/img/music-2.png)](https://www.youtube.com/watch?v=4w8C8cXGJdk)
