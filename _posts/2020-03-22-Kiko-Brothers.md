@@ -4,7 +4,7 @@ date: 2020-03-22 00:34:00 +0800
 categories: [japan]
 tags: [japan]
 toc: false
-headline: Meet a creator who started in 2012 and creates guitar related videos, including 1 minute guitar tutorials.
+headline: Meet a creator with 12k subs that creates Japanese content, related to Japan or Japanese Anime.
 image: /assets/img/kiko-1.jpg
 subscribers: 1000+
 ---
