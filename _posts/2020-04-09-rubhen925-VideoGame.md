@@ -16,7 +16,9 @@ _______________________
 
 Rubhen925 is a fantastic Youtube creator who creates series on a variety of video games, including: Persona 5 Royal, Final Fantasy 7, Animal Crossing, and more. Check out his interview below!
 
-
+&nbsp;
+&nbsp;
+&nbsp
 ## Who are you and what videos do you create?
 _____________________________________________
 
