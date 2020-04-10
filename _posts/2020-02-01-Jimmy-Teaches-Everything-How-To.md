@@ -6,6 +6,7 @@ tags: [how-to]
 toc: false
 headline: Meet a content creator of How To videos on everything, while creating funny videos at the same time.
 image: /assets/img/how-to_small.jpg
+subscribers: <1,000
 ---
 
 [![How To](/assets/img/how-to.png)](https://www.youtube.com/watch?v=O62bENLlRY4)

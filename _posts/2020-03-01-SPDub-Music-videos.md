@@ -6,6 +6,7 @@ tags: [music]
 toc: false
 headline: Meet a couple who create music videos off pop and bollywood music, and love playing music for others to listen to.
 image: /assets/img/music-1_small.jpg
+subscribers: <1,000
 ---
 
 [![Music](/assets/img/music-1.png)](https://www.youtube.com/watch?v=Yc1XK5oo-dc)

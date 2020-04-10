@@ -6,6 +6,7 @@ tags: [music, art]
 toc: false
 headline: Meet a content creator of both art and unconventional music, who creates videos inspired by his life.
 image: /assets/img/music-art_small.jpg
+subscribers: <1,000
 ---
 
 [![Music/Art](/assets/img/music-art.png)](https://www.youtube.com/watch?v=JQ_kx68ONck)

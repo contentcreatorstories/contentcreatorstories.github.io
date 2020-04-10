@@ -6,6 +6,7 @@ tags: [japan]
 toc: false
 headline: Meet a creator who runs multiple websites and creates videos on Japan and Japanese culture on his channel.
 image: /assets/img/japan-1_small.jpg
+subscribers: 2,500+
 ---
 
 [![Japan](/assets/img/japan-1.png)](https://www.youtube.com/watch?v=xkemFE2gC8k)

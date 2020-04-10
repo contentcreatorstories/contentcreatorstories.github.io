@@ -6,6 +6,7 @@ tags: [art]
 toc: false
 headline: Meet a custom sneaker creator who paints and customizes sneakers from big brands like Adidas, Nike, and Reebok.
 image: /assets/img/photography-2_small.jpg
+subscribers: <1,000
 ---
 
 ## Who are you and what videos do you create?
