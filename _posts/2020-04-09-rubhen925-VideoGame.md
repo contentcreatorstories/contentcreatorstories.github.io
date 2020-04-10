@@ -4,7 +4,7 @@ date: 2020-04-09 00:34:00 +0800
 categories: [videogames]
 tags: [videogames]
 toc: false
-headline: Meet a creator who makes interesting historical and scientific videos, and produces them for his 200k subscribers.
+headline: Meet a creator who posts new video game walkthroughs and lets plays, as a guide for his 66,000 subscribers.
 image: /assets/img/videogame-small-1.jpg
 subscribers: 66,000+
 ---
