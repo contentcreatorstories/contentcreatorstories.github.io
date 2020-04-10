@@ -14,7 +14,7 @@ subscribers: 66,000+
 ## Featured Guest: Rubhen925
 _______________________
 
-Rubhen925 is a Youtube creator who creates series on a variety of video games, including: Persona 5 Royal, Final Fantasy 7, Animal Crossing, and more. Check out his interview below!
+Rubhen925 is a fantastic Youtube creator who creates series on a variety of video games, including: Persona 5 Royal, Final Fantasy 7, Animal Crossing, and more. Check out his interview below!
 
 
 ## Who are you and what videos do you create?
