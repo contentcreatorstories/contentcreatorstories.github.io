@@ -18,7 +18,7 @@ Rubhen925 is a fantastic Youtube creator who creates series on a variety of vide
 
 &nbsp;
 &nbsp;
-&nbsp
+&nbsp;
 ## Who are you and what videos do you create?
 _____________________________________________
 
@@ -26,6 +26,9 @@ I’m Rubhen, a Video Game Development and Design Student. Well I just recently 
 
 I mainly create walkthrough videos of upcoming and new games, along with guides for people stuck with certain elements in games such as puzzles, locations of collectibles, trophies/achievements, etc. I used to do reviews as well. The walkthrough videos are now my staple as I do my best to edit out downtime in the videos such as load times, numerous fails, and streamline the content so people can enjoy it without feeling bored.
 
+&nbsp;
+&nbsp;
+&nbsp;
 ## What’s your backstory and how did you decide to start making Youtube videos?
 _______________________________________________________________________________
 
@@ -33,6 +36,9 @@ I was a trophy hunting fanatic on PS4 back when I got my PS4. I was hunting them
 
 I used the PS4 capture feature to make some basic videos which actually became a hit during launch of the game. That’s how my channel started, but after covering Bloodborne I went back to my Grad studies in University. I came back to fully work on the channel in 2017 when Nioh and Persona 5 came out. I made tons of guides and trophy videos which then boosted my channel’s standings. From there I decided to carry on with making regular videos for the channel.
 
+&nbsp;
+&nbsp;
+&nbsp;
 ## Describe the process of filming your first video and uploading it to Youtube.
 ________________________________________________________________________________
 
@@ -42,7 +48,9 @@ Uploading to YT was simple as the PS4 share feature took care of that. That was 
 
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ## What have you done to grow your following to where it is today?
 __________________________________________________________________
 
@@ -53,14 +61,18 @@ I then continued to make more gameplay and trophy guide videos for other new and
 
 But I kind of stopped the hunt for trophies and platinums as I just wanted to enjoy the game experiences. Some trophy hunts were a pure grind and can make it a sour experience. Since stopping my trophy hunts I decided to make walkthrough videos which have become a staple now on my channel.
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ## If you could go back, would you do anything differently?
 ___________________________________________________________
 
 Yes. I would have kept making more videos during my 2 year hiatus on the channel from 2015 to 2017. There were so many games I played which I could have covered, but I ended up not doing anything. Call it laziness, but for me I was content just playing them as the process of making videos were tiresome when using Sharefactory. Looking back I should have invested the time to make the videos instead of hunting trophies in games that required too much grind.
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ## Where you are at now and what are your plans for the future?
 _______________________________________________________________
 
@@ -70,7 +82,9 @@ My goal is to make it to 100K and to try and get the Verified check mark for my 
 
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ## What platform/tools do you use for your channel?
 ___________________________________________________
 
@@ -79,13 +93,17 @@ I use Elgato HD 60S for recording games on consoles, along with PC games. Stream
 Other than that I do use Audactiy for vocal audio recordings. In terms of tools for the channel, I use TubeBuddy to see my rankings, analytics, and also keywords for tagging.
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ## What’s the most influential books/podcasts/websites for your channel and why?
 ________________________________________________________________________________
 
 I haven’t used any books or podcasts. My most influential website is GOOGLE. Any question you may have, just googling it will most likely answer it. I’ve been stuck many times in the past and googling my problem has always had the answer. So I implore more people to check with google first :)
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ## Advice for other content creators who want to get started or are just starting out?
 ______________________________________________________________________________________
 
@@ -96,7 +114,9 @@ It’s the harsh truth but unless you receive an early copy. post on launch day,
 My advice is post games you’re passionate about regularly. Once a day or once every other day. Don’t cover games you’re not into as the gameplay will show your lack of enthusiasm and the viewers will know just by watching. Stream a couple times during the week to communicate with your community and keep them engaged. But the biggest thing will be to cover new games during the first couple days of launch, as that’s the best way of getting an influx of new viewers into your channel.
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ## Where can we go to learn more?
 _________________________________
 
