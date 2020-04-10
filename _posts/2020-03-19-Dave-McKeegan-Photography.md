@@ -6,7 +6,7 @@ tags: [photography]
 toc: false
 headline: Meet a photographer who has been been in the craft for a decade, and grew his hobby into a big passion.
 image: /assets/img/photography-2_small.jpg
-subscribers: 25000+
+subscribers: 25,000+
 ---
 
 [![Lifestyle](/assets/img/photography-2.png)](https://www.youtube.com/watch?v=ChlNnuFwLu8)

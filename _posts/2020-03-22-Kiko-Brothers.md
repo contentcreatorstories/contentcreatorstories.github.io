@@ -6,7 +6,7 @@ tags: [japan]
 toc: false
 headline: Meet a creator with 12k subs that creates Japanese content, related to Japan or Japanese Anime starting in 2009.
 image: /assets/img/kiko-1.jpg
-subscribers: 12000+
+subscribers: 12,000+
 ---
 
 [![Anime](/assets/img/kiko-2.png)](https://www.youtube.com/channel/UC0dli2ad2k9ltSAY0O3cp9w)
