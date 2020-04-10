@@ -1,5 +1,5 @@
 ---
-title: "rubhen925 - VideoGames"
+title: "Rubhen925 - VideoGames"
 date: 2020-04-09 00:34:00 +0800
 categories: [videogames]
 tags: [videogames]
@@ -11,10 +11,10 @@ subscribers: 66,000+
 
 [![Videogames](/assets/img/videogame-1.png)](https://www.youtube.com/user/raijumc925/featured)
 
-## Channel Name - Niche
+## Featured Guest: Rubhen925
 _______________________
 
-Rubhen - Videogames
+Rubhen925 is a Youtube creator who creates series on a variety of video games, including: Persona 5 Royal, Final Fantasy 7, Animal Crossing, and more. Check out his interview below!
 
 
 ## Who are you and what videos do you create?
