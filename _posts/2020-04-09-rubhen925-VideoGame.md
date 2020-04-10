@@ -9,7 +9,7 @@ image: /assets/img/videogame-small-1.jpg
 subscribers: 66,000+
 ---
 
-[![Videogames](/assets/img/videogame-1.jpg)](https://www.youtube.com/user/raijumc925/featured)
+[![Videogames](/assets/img/videogame-1.png)](https://www.youtube.com/user/raijumc925/featured)
 
 ## Channel Name - Niche
 _______________________
